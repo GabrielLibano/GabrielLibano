@@ -1,4 +1,4 @@
-## Olá sou o Gabriel Libano, fascinado por tecnologia e atualmente estudando na FIAP, S.I
+## Olá sou o Gabriel Libano, fascinado por tecnologia e atualmente estudante da FIAP, no curso de S.I
 <div align="center" style="display: flex">
   <a href="https://github.com/GabrielLibano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLibano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
