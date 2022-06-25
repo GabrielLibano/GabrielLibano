@@ -1,4 +1,4 @@
-## Olá sou o Gabriel Libano, atualmente estudante da FIAP, no curso de S.I
+## Olá sou o Gabriel Libano, atualmente aluno da FIAP, no curso de S.I
 ### Atualmente, estudando: Java, JavaScript e NodeJS
 <div align="center" style="display:flex">
   <a href="https://github.com/GabrielLibano">
