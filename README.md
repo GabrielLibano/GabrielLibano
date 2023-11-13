@@ -1,5 +1,5 @@
-## Olá sou o Gabriel Libano, atualmente aluno da FIAP, no curso de S.I
-### Atualmente, estudando: Java, JavaScript, NodeJS, MongoDB e React
+## Olá sou o Gabriel Libano, desenvolvedor fullstack
+### Atualmente, estudando: Java, Angular, .NET C#
 <div align="center" style="display:flex">
   <a href="https://github.com/GabrielLibano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLibano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
