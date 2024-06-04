@@ -1,8 +1,10 @@
-## Olá sou o Gabriel Libano, desenvolvedor fullstack
-### Atualmente trabalhando com as tecnologias: Java, Angular, .NET C#, Typescript, SQL Server e Microserviços.
+## Olá sou o Gabriel Libano, desenvolvedor de software
+### Atualmente trabalhando com as tecnologias: C# .NET, SQL Server, Angular com Typescript, Docker e RabbitMQ
+### Em pararelo a isso, estou estudando: Java com springBoot, Flutter, Kotlin e Kafka
+
 <div align="center" style="display:flex">
   <a href="https://github.com/GabrielLibano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLibano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLibano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
