@@ -1,6 +1,6 @@
 ## Olá sou o Gabriel Libano, desenvolvedor de software
 ### Atualmente trabalhando com as tecnologias: C# .NET, SQL Server, Angular com Typescript, Docker e RabbitMQ
-### Em pararelo a isso, estou estudando: Java com springBoot, Flutter, Kotlin e Kafka
+### Em pararelo a isso, estou estudando: Java com SpringBoot, Flutter, Kotlin,, Kafka e Kubernetes
 
 <div align="center" style="display:flex">
   <a href="https://github.com/GabrielLibano">
